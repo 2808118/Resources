@@ -9,7 +9,7 @@ A place to put learning, teaching, and other online resources I found useful.
 ## Teaching
 
 ### Datasets
-* [Penguin data](https://allisonhorst.github.io/palmerpenguins/) (alternative to iris dataset)
+* [palmerpenguins R data package](https://allisonhorst.github.io/palmerpenguins/) (alternative to iris dataset)
 
 ### Art
 * [Allison Horst's statistics and R illustrations](https://github.com/allisonhorst/stats-illustrations)
