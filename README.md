@@ -13,3 +13,6 @@ A place to put learning, teaching, and other online resources I found useful.
 
 ### Art
 * [Allison Horst's statistics and R illustrations](https://github.com/allisonhorst/stats-illustrations)
+
+### Explanations
+* [The difference between probability and statistics](https://www3.cs.stonybrook.edu/~skiena/jaialai/excerpts/node12.html)
