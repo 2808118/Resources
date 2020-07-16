@@ -1,12 +1,12 @@
-# Resources
+# Resources (other than journal articles) for current and future me
 A place to put learning, teaching, and other online resources I found useful.
 
-## Learning
+## Learning Resurces
 
 ### Dirichlet process
 * [Nonparametric Bayesian Methods: Models, Algorithms, and Applications I](https://simons.berkeley.edu/talks/tamara-broderick-michael-jordan-01-25-2017-1)
 
-## Teaching
+## Teaching Resources
 
 ### Datasets
 * [palmerpenguins R data package](https://allisonhorst.github.io/palmerpenguins/) (alternative to iris dataset)
@@ -16,3 +16,13 @@ A place to put learning, teaching, and other online resources I found useful.
 
 ### Explanations
 * [The difference between probability and statistics](https://www3.cs.stonybrook.edu/~skiena/jaialai/excerpts/node12.html)
+
+### Advice for online teaching
+* [9 Ways Online Teaching Should be Different from Face-to-Face](https://www.cultofpedagogy.com/9-ways-online-teaching/)
+* [Small Teaching Online: Applying Learning Science in Online Classes](https://www.wiley.com/en-us/Small+Teaching+Online%3A+Applying+Learning+Science+in+Online+Classes-p-9781119619093)
+
+## Getting a job
+
+### Where to find job listings
+* [https://www.mathjobs.org/jobs/list]
+* 
