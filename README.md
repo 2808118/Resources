@@ -6,6 +6,9 @@ A place to put learning, teaching, and other online resources I found useful.
 ### Dirichlet process
 * [Nonparametric Bayesian Methods: Models, Algorithms, and Applications I](https://simons.berkeley.edu/talks/tamara-broderick-michael-jordan-01-25-2017-1)
 
+### Hidden Markov Models
+* [Hidden Markov Models and State Estimation](https://www.stat.cmu.edu/~cshalizi/dst/18/lectures/24/lecture-24.html)
+
 ## Teaching Resources
 
 ### Datasets
