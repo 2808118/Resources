@@ -24,5 +24,19 @@ A place to put learning, teaching, and other online resources I found useful.
 ## Getting a job
 
 ### Where to find job listings
-* [https://www.mathjobs.org/jobs/list]
-* 
+* https://www.mathjobs.org/jobs/list
+* https://jobs.chronicle.com/jobs/statistics/
+* https://forms.stat.ufl.edu/statistics-jobs/
+* https://www.higheredjobs.com/
+* https://careers.insidehighered.com/
+* https://jobs.chronicle.com/jobs/mathematics/ (don’t forget that some “stat jobs” will be within mathematics departments)
+* https://jobs.amstat.org/jobs/
+* Less helpful - https://academicjobsonline.org/ajo/jobs
+* http://mdogucu.ics.uci.edu/service/isostat/tt-search-2019
+
+### Advice for the job search
+* At JSM, the isolated statisticians working meeting will feature faculty who are looking to hire.
+* Draft teaching and research statements over the summer, and send them to your committee for feedback.
+* For smaller schools, applications are as early as October 1 and as late as November. For research universities, deadlines are much later.
+* Put a lot of thought into cover letter. 
+* Be clear about what courses you want to teach and how you teach in your teaching statement. Have online course notes 
