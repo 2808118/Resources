@@ -28,6 +28,7 @@ A place to put learning, teaching, and other online resources I found useful.
 
 ### Activities
 * [Setting the Stage on the First Day of Class](https://danaernst.com/setting-the-stage/)
+* [Rossman/Chance Applet Collection](http://www.rossmanchance.com/applets/) with probability and statistics apps
 
 ### Advice for online teaching
 * [9 Ways Online Teaching Should be Different from Face-to-Face](https://www.cultofpedagogy.com/9-ways-online-teaching/)
@@ -66,10 +67,18 @@ A place to put learning, teaching, and other online resources I found useful.
     * Although Montgomery's book is probably the most widely used, it isn't super accessible
   * Cobb, G.W. (2014). Introduction to Design and Analysis of Experiments. Wiley. (recommended by Megan Lutz)
     * it also has some drawbacks (no solutions manual! some key omitted topics! approach to decomposing SSs doesn't extend past two-way designs!) BUT it is an intuitive approach and provides a great visualization method for decomposition and partitioning the data, and does not require calculus or linear algebra to do it.
-  * [a free online textbook for design of experiments](http://users.stat.umn.edu/~gary/book/fcdae.pdf) which no one has read in detail
+  * [a free online textbook for design of experiments by Gary W. Oehlert](http://users.stat.umn.edu/~gary/book/fcdae.pdf) which no one has read in detail. Free online PDF, no print version is available that I'm aware of.
   * Dean and Voss, Design and Analysis of Experiments with Martha Smith's 2009 [online notes](https://web.ma.utexas.edu/users/mks/384E09/M384Esp09home.html)
 * For teaching blind students (look at isostat tread "Teaching intro stat to a blind student")
   * [BraileR in Action](https://r-resources.massey.ac.nz/BrailleRInAction/)
+* [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse!, by Chester Ismay and Albert Y. Kim](https://moderndive.com)
+* [Introduction to Statistical Investigations by Rossman and Chance](http://www.isi-stats.com)
+* [Investigating Statistical Concepts, Aplications, and Methods, third edition by Beth L Chance and Allan J Rossman](http://www.rossmanchance.com/iscam3/)
+  * so many applets!
+* Statistical Inference via Data Science, by Ismay/Kim, is free online and retails for $79.95 in paperback.
+* An Introduction to Statistical Learning, by James/Witten/Hastie/Tibshirani, is free in PDF and is available in print for $79.99 retail.
+* A list of additional textbooks that are free online or free in PDF are listed at the following page (far from a comprehensive list):
+https://www.openintro.org/book/os#more_free_books
 
 ### For me
 
