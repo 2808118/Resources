@@ -79,6 +79,8 @@ A place to put learning, teaching, and other online resources I found useful.
 * An Introduction to Statistical Learning, by James/Witten/Hastie/Tibshirani, is free in PDF and is available in print for $79.99 retail.
 * A list of additional textbooks that are free online or free in PDF are listed at the following page (far from a comprehensive list):
 https://www.openintro.org/book/os#more_free_books
+* [a free probability text by Grinstead and Snell](https://math.dartmouth.edu/~prob/prob/prob.pdf) This is appropriate for the usual calculus-based probability course. Based on the relatively little I’ve seen, I like this book because it has good verbal explanations.
+* [Linear Algebra, A Free text for a standard US undergraduate course by Jim Hefferon ](http://joshua.smcvt.edu/linearalgebra/)
 
 ### For me
 
