@@ -53,11 +53,17 @@ A place to put learning, teaching, and other online resources I found useful.
 * Put a lot of thought into cover letter. 
 * Be clear about what courses you want to teach and how you teach in your teaching statement. Have online course notes 
 
-## Textbooks
+## Textbooks recommended by me or others
 
 ### For students
-* [A undergraduate-level probability and Bayesian statistics textbook called "Probability and Bayesian Modeling" by Jim Albert and Monika Hu](https://monika76five.github.io/ProbBayes/)
-* [OpenIntro Statistics by David Diez, Mine Cetinkaya-Rundel, Christopher Barr, and OpenIntro:](https://www.openintro.org/book/os/) A complete foundation for Statistics, also serving as a foundation for Data Science
+* A undergraduate-level probability and Bayesian statistics textbook called [Probability and Bayesian Modeling by Jim Albert and Monika Hu](https://monika76five.github.io/ProbBayes/)
+* Introductory statistics textbook called [OpenIntro Statistics by David Diez, Mine Cetinkaya-Rundel, Christopher Barr, and OpenIntro:](https://www.openintro.org/book/os/) A complete foundation for Statistics, also serving as a foundation for Data Science
+* Design of experiments textbooks focusing on social science
+  * Gerber, A.S. and Green, D.P., 2012. Field experiments: Design, analysis, and interpretation. WW Norton. (recommended by Philip Waggoner)
+  * Dunning, T., 2012. Natural experiments in the social sciences: a design-based approach. Cambridge University Press. (recommended by Philip Waggoner)
+  * Design and Analysis of Experiments, 10th Edition Douglas C. Montgomery (recommended by Oluremi Abayomi).
+    * very detailed and extensive in its development of the conceptual and logical principles that underpin the design of experiments
+
 
 ### For me
 
