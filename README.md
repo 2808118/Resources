@@ -8,7 +8,7 @@ A place to put learning, teaching, and other online resources I found useful.
 
 ### Hidden Markov Models
 * [Hidden Markov Models and State Estimation](https://www.stat.cmu.edu/~cshalizi/dst/18/lectures/24/lecture-24.html)
-  * [Forward algorithm for computing the likelihood in section A.3](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
+  * [Forward algorithm for computing the likelihood & Viterbi algorithm for most likely state sequence](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
 
 ## Teaching Resources
 
