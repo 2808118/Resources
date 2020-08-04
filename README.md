@@ -9,6 +9,10 @@ A place to put learning, teaching, and other online resources I found useful.
 ### Hidden Markov Models
 * [Hidden Markov Models and State Estimation](https://www.stat.cmu.edu/~cshalizi/dst/18/lectures/24/lecture-24.html)
   * [Forward algorithm for computing the likelihood & Viterbi algorithm for most likely state sequence](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
+  
+### Rstan
+* [Stan User's Guide](https://mc-stan.org/docs/2_24/stan-users-guide/index.html)
+* [Stan Reference Manual](https://mc-stan.org/docs/2_18/reference-manual/)
 
 ## Teaching Resources
 
@@ -48,3 +52,13 @@ A place to put learning, teaching, and other online resources I found useful.
 * For smaller schools, applications are as early as October 1 and as late as November. For research universities, deadlines are much later.
 * Put a lot of thought into cover letter. 
 * Be clear about what courses you want to teach and how you teach in your teaching statement. Have online course notes 
+
+## Textbooks
+
+### For students
+* [A undergraduate-level probability and Bayesian statistics textbook called "Probability and Bayesian Modeling" by Jim Albert and Monika Hu](https://monika76five.github.io/ProbBayes/)
+
+### For me
+
+
+
