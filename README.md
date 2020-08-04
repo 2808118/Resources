@@ -57,6 +57,7 @@ A place to put learning, teaching, and other online resources I found useful.
 
 ### For students
 * [A undergraduate-level probability and Bayesian statistics textbook called "Probability and Bayesian Modeling" by Jim Albert and Monika Hu](https://monika76five.github.io/ProbBayes/)
+* [OpenIntro Statistics by David Diez, Mine Cetinkaya-Rundel, Christopher Barr, and OpenIntro:](https://www.openintro.org/book/os/) A complete foundation for Statistics, also serving as a foundation for Data Science
 
 ### For me
 
