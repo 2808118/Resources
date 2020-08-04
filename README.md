@@ -68,6 +68,8 @@ A place to put learning, teaching, and other online resources I found useful.
     * it also has some drawbacks (no solutions manual! some key omitted topics! approach to decomposing SSs doesn't extend past two-way designs!) BUT it is an intuitive approach and provides a great visualization method for decomposition and partitioning the data, and does not require calculus or linear algebra to do it.
   * [a free online textbook for design of experiments](http://users.stat.umn.edu/~gary/book/fcdae.pdf) which no one has read in detail
   * Dean and Voss, Design and Analysis of Experiments with Martha Smith's 2009 [online notes](https://web.ma.utexas.edu/users/mks/384E09/M384Esp09home.html)
+* For teaching blind students (look at isostat tread "Teaching intro stat to a blind student")
+  * [BraileR in Action](https://r-resources.massey.ac.nz/BrailleRInAction/)
 
 ### For me
 
