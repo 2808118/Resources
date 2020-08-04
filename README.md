@@ -30,6 +30,13 @@ A place to put learning, teaching, and other online resources I found useful.
 * [Setting the Stage on the First Day of Class](https://danaernst.com/setting-the-stage/)
 * [Rossman/Chance Applet Collection](http://www.rossmanchance.com/applets/) with probability and statistics apps
 
+### Teaching with GitHub/Git
+* [JSM 2020 Panel Resources](https://github.com/mdbeckman/JSM2020-Virtual)
+* Fun:
+  * https://xkcd.com/1296/
+  * http://phdcomics.com/comics/archive_print.php?comicid=1531
+  * http://starlogs.net
+
 ### Advice for online teaching
 * [9 Ways Online Teaching Should be Different from Face-to-Face](https://www.cultofpedagogy.com/9-ways-online-teaching/)
 * [Small Teaching Online: Applying Learning Science in Online Classes](https://www.wiley.com/en-us/Small+Teaching+Online%3A+Applying+Learning+Science+in+Online+Classes-p-9781119619093)
