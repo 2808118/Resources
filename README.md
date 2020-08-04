@@ -81,6 +81,9 @@ A place to put learning, teaching, and other online resources I found useful.
 https://www.openintro.org/book/os#more_free_books
 * [a free probability text by Grinstead and Snell](https://math.dartmouth.edu/~prob/prob/prob.pdf) This is appropriate for the usual calculus-based probability course. Based on the relatively little I’ve seen, I like this book because it has good verbal explanations.
 * [Linear Algebra, A Free text for a standard US undergraduate course by Jim Hefferon ](http://joshua.smcvt.edu/linearalgebra/)
+* Another book for math stats that focuses on simulation for inference and the traditional math stats examples is the Chihara and Hesterberg book. There are also simulations for understanding discussed. (Adam Loy)
+* a biostat book with great connection of probability and stat theory is https://www.amazon.com/Exercises-Solutions-Biostatistical-Chapman-Statistical-ebook/dp/B005H6L6YG (John Bailer)
+* I wrote a book that uses R throughout and introduces statistics along with the probability. https://www.maa.org/press/maa-reviews/foundations-and-applications-of-statistics-an-introduction-using-r (Randall Pruim)
 
 ### For me
 
