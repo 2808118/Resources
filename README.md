@@ -1,10 +1,6 @@
 # Resources (other than journal articles) for current and future me
 A place to put learning, teaching, and other online resources I found useful.
 
-- [Learning Resources](##Learning-Resources)
-- [Teaching Resources](##Learning-Resources)
-- [Textbooks recommended by me or others](##Textbooks%20recommended%20by%20me%20or%20others)
-
 ## Learning Resources
 
 ### Dirichlet process
