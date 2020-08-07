@@ -1,6 +1,29 @@
 # Resources (other than journal articles) for current and future me
 A place to put learning, teaching, and other online resources I found useful.
 
+- [Resources (other than journal articles) for current and future me](#resources--other-than-journal-articles--for-current-and-future-me)
+  * [Learning Resources](#learning-resources)
+    + [Dirichlet process](#dirichlet-process)
+    + [Hidden Markov Models](#hidden-markov-models)
+    + [Rstan](#rstan)
+  * [Teaching Resources](#teaching-resources)
+    + [Datasets](#datasets)
+    + [Art](#art)
+    + [Explanations](#explanations)
+    + [Activities](#activities)
+    + [Teaching with GitHub/Git](#teaching-with-github-git)
+    + [Advice for online teaching](#advice-for-online-teaching)
+  * [Textbooks recommended by me or others](#textbooks-recommended-by-me-or-others)
+    + [For students](#for-students)
+    + [For me](#for-me)
+      - [On education](#on-education)
+  * [Blogs](#blogs)
+  * [Getting a job](#getting-a-job)
+    + [Where to find job listings](#where-to-find-job-listings)
+    + [Advice for the job search](#advice-for-the-job-search)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## Learning Resources
 
 ### Dirichlet process
