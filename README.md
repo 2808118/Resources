@@ -1,9 +1,11 @@
 # Resources (other than journal articles) for current and future me
 A place to put learning, teaching, and other online resources I found useful.
 
-- [Learning Resurces](##Learning-Resurces)
+- [Learning Resources](##Learning-Resources)
+- [Teaching Resources](##Learning-Resources)
+- [Textbooks recommended by me or others](##Textbooks-recommended-by-me-or-others)
 
-## Learning Resurces
+## Learning Resources
 
 ### Dirichlet process
 * [Nonparametric Bayesian Methods: Models, Algorithms, and Applications I](https://simons.berkeley.edu/talks/tamara-broderick-michael-jordan-01-25-2017-1)
