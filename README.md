@@ -91,6 +91,7 @@ https://www.openintro.org/book/os#more_free_books
 * https://www.datapedagogy.com
 * [7 exam questions for a pandemic (or any other time)](https://www.francissu.com/post/7-exam-questions-for-a-pandemic-or-any-other-time)
 * https://www.citizen-statistician.org
+* https://education.rstudio.com/blog/
 
 ## Getting a job
 
