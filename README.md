@@ -1,7 +1,8 @@
 # Resources (other than journal articles) for current and future me
 A place to put learning, teaching, and other online resources I found useful.
 
-- [Resources (other than journal articles) for current and future me](#resources--other-than-journal-articles--for-current-and-future-me)
+
+# Table of contents
   * [Learning Resources](#learning-resources)
     + [Dirichlet process](#dirichlet-process)
     + [Hidden Markov Models](#hidden-markov-models)
