@@ -52,6 +52,7 @@ A place to put learning, teaching, and other online resources I found useful.
 ### Activities
 * [Setting the Stage on the First Day of Class](https://danaernst.com/setting-the-stage/)
 * [Rossman/Chance Applet Collection](http://www.rossmanchance.com/applets/) with probability and statistics apps
+* [Seeing Theory](https://seeing-theory.brown.edu)
 
 ### Teaching with GitHub/Git
 * [JSM 2020 Panel Resources](https://github.com/mdbeckman/JSM2020-Virtual)
@@ -95,6 +96,7 @@ https://www.openintro.org/book/os#more_free_books
 * a biostat book with great connection of probability and stat theory is https://www.amazon.com/Exercises-Solutions-Biostatistical-Chapman-Statistical-ebook/dp/B005H6L6YG (John Bailer)
 * I wrote a book that uses R throughout and introduces statistics along with the probability. https://www.maa.org/press/maa-reviews/foundations-and-applications-of-statistics-an-introduction-using-r (Randall Pruim)
 * The textbook Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R by Roback and Legler is now freely available at  https://bookdown.org/roback/bookdown-BeyondMLR/ , and the source code and associated data sets are available at  https://github.com/proback/BeyondMLR .  This is an updated version of the textbook formerly known as Broadening Your Statistical Horizons (BYSH); while core topics and structure and case studies remain the same, this version represents a noticeable improvement -- more exercises, more clarity, and more fun!  If you've been looking for an applied presentation of GLMs and multilevel models for advanced undergraduates, feel free to check out these materials and use anything that appears useful.
+* [Seeing Theory](https://seeing-theory.brown.edu/doc/seeing-theory.pdf) goes with the website. It is not published yet, but the pdf is online for free.
 
 ### For me
 
