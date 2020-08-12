@@ -54,6 +54,7 @@ A place to put learning, teaching, and other online resources I found useful.
 * [Setting the Stage on the First Day of Class](https://danaernst.com/setting-the-stage/)
 * [Rossman/Chance Applet Collection](http://www.rossmanchance.com/applets/) with probability and statistics apps
 * [Seeing Theory](https://seeing-theory.brown.edu)
+* [Simulate from distributions](https://www.randomservices.org/random/apps/SpecialSimulation.html)
 
 ### Teaching with GitHub/Git
 * [JSM 2020 Panel Resources](https://github.com/mdbeckman/JSM2020-Virtual)
