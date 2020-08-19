@@ -122,6 +122,9 @@ https://www.openintro.org/book/os#more_free_books
 
 ## Getting a job
 
+### On graduating:
+* https://gradschool.psu.edu/completing-your-degree/thesis-and-dissertation-information/
+
 ### Where to find job listings
 * https://www.mathjobs.org/jobs/list
 * https://jobs.chronicle.com/jobs/statistics/
