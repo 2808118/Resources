@@ -57,6 +57,11 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 * [Rossman/Chance Applet Collection](http://www.rossmanchance.com/applets/) with probability and statistics apps
 * [Seeing Theory](https://seeing-theory.brown.edu)
 * [Simulate from distributions](https://www.randomservices.org/random/apps/SpecialSimulation.html)
+* Asking fun questions at the beginning of class
+  * [My favorites](Questions)
+  * [This or That Questions](https://conversationstartersworld.com/this-or-that-questions/)
+  * [40 weird questions](https://funfreshideas.com/40-weird-questions-to-ask-your-students/)
+  * [Random question generator](https://conversationstartersworld.com/random-question-generator/)
 
 ### Data Vis
 * [WTF Visualizations](https://viz.wtf) Visualizations that make no sense.
