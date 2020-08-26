@@ -121,6 +121,7 @@ https://www.openintro.org/book/os#more_free_books
 * Mathematics for Human Flourishing by Francis Su
 * On Course by James M. Lang
 * Teaching What You Don’t Know by Therese Huston
+* The Seven Pillars of Statistical Wisdom by Stigler
 
 ## Blogs
 * [Statisticians React to the News](https://blog.isi-web.org/react/)
