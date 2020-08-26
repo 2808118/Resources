@@ -12,6 +12,7 @@ A place to put learning, teaching, and other online resources I found useful.
     + [Art](#art)
     + [Explanations](#explanations)
     + [Activities](#activities)
+    + [Data Vis](#data-vis)
     + [Teaching with GitHub/Git](#teaching-with-github-git)
     + [Advice for online teaching](#advice-for-online-teaching)
   * [Textbooks recommended by me or others](#textbooks-recommended-by-me-or-others)
@@ -39,6 +40,7 @@ A place to put learning, teaching, and other online resources I found useful.
 * [Stan Reference Manual](https://mc-stan.org/docs/2_18/reference-manual/)
 
 ## Teaching Resources
+First, a list of [blogs and resources collected by Amy Hogan.](http://alittlestats.blogspot.com/p/things-loved.html) Focuses on AP and intro statistics.
 
 ### Datasets
 * [palmerpenguins R data package](https://allisonhorst.github.io/palmerpenguins/) (alternative to iris dataset)
@@ -55,6 +57,10 @@ A place to put learning, teaching, and other online resources I found useful.
 * [Rossman/Chance Applet Collection](http://www.rossmanchance.com/applets/) with probability and statistics apps
 * [Seeing Theory](https://seeing-theory.brown.edu)
 * [Simulate from distributions](https://www.randomservices.org/random/apps/SpecialSimulation.html)
+
+### Data Vis
+* [WTF Visualizations](https://viz.wtf) Visualizations that make no sense.
+* [WGOITG](https://www.nytimes.com/column/whats-going-on-in-this-graph)
 
 ### Teaching with GitHub/Git
 * [JSM 2020 Panel Resources](https://github.com/mdbeckman/JSM2020-Virtual)
