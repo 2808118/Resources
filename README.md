@@ -57,7 +57,7 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 * [Setting the Stage on the First Day of Class](https://danaernst.com/setting-the-stage/)
 * [Rossman/Chance Applet Collection](http://www.rossmanchance.com/applets/) with probability and statistics apps
 * [Seeing Theory](https://seeing-theory.brown.edu)
-* [Simulate from distributions](https://www.randomservices.org/random/apps/SpecialSimulation.html)
+* [Simulate from distributions (and more)](https://www.randomservices.org/random/apps/)
 * Asking fun questions at the beginning of class
   * [My favorites](Questions)
   * [This or That Questions](https://conversationstartersworld.com/this-or-that-questions/)
