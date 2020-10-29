@@ -64,6 +64,7 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 * [Rossman/Chance Applet Collection](http://www.rossmanchance.com/applets/) with probability and statistics apps
 * [Seeing Theory](https://seeing-theory.brown.edu)
 * [Simulate from distributions (and more)](https://www.randomservices.org/random/apps/)
+* [Art of Stat Apps](http://www.artofstat.com/webapps.html)
 * Favorite apps for specific probabilistic concepts:
   * [Simulate from Binomial](https://www.randomservices.org/random/apps/BinomialCoinExperiment.html)
   * [Simulate from Negative Binomial](https://www.randomservices.org/random/apps/NegativeBinomialExperiment.html)
