@@ -34,7 +34,7 @@ A place to put learning, teaching, and other online resources I found useful.
 ### Hidden Markov Models
 * [Hidden Markov Models and State Estimation](https://www.stat.cmu.edu/~cshalizi/dst/18/lectures/24/lecture-24.html)
   * [Forward algorithm for computing the likelihood & Viterbi algorithm for most likely state sequence](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
-  
+  * [Detailed discussion of Viterbi vs Forward-Backward algorithm](https://groups.google.com/g/stan-users/c/72BEgxLIZjo/m/f2JAXaaEBgAJ?pli=1)
 ### Rstan
 * [Stan User's Guide](https://mc-stan.org/docs/2_24/stan-users-guide/index.html)
 * [Stan Reference Manual](https://mc-stan.org/docs/2_18/reference-manual/)
