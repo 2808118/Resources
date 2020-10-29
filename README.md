@@ -7,6 +7,7 @@ A place to put learning, teaching, and other online resources I found useful.
     + [Dirichlet process](#dirichlet-process)
     + [Hidden Markov Models](#hidden-markov-models)
     + [Rstan](#rstan)
+    + [Hamiltonian Monte Carlo Algorithm](#hmc)
   * [Teaching Resources](#teaching-resources)
     + [Datasets](#datasets)
     + [Art](#art)
@@ -40,6 +41,9 @@ A place to put learning, teaching, and other online resources I found useful.
 * [Stan Reference Manual](https://mc-stan.org/docs/2_18/reference-manual/)
 * [Bayesian Model Comparison in Stan](https://cran.r-project.org/web/packages/bridgesampling/vignettes/bridgesampling_example_stan.html#bayesian-model-comparison)
 * [Detailed discussion of Viterbi vs Forward-Backward algorithm in Stan](https://groups.google.com/g/stan-users/c/72BEgxLIZjo/m/f2JAXaaEBgAJ?pli=1)
+
+### Hamiltonian Monte Carlo Algorithm
+* [Blog post with simulation visualizations](https://elevanth.org/blog/2017/11/28/build-a-better-markov-chain/)
 
 ## Teaching Resources
 First, a list of [blogs and resources collected by Amy Hogan.](http://alittlestats.blogspot.com/p/things-loved.html) Focuses on AP and intro statistics.
