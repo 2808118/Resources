@@ -6,7 +6,7 @@ A place to put learning, teaching, and other online resources I found useful.
   * [Learning Resources](#learning-resources)
     + [Dirichlet process](#dirichlet-process)
     + [Hidden Markov Models](#hidden-markov-models)
-    + [Rstan](#rstan)
+    + [Rstan](#hamiltonian-monte-carlo-algorithm)
     + [Hamiltonian Monte Carlo Algorithm](#hmc)
   * [Teaching Resources](#teaching-resources)
     + [Datasets](#datasets)
