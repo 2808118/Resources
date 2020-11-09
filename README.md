@@ -74,6 +74,7 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
   * [Standard Normal Distribution](https://www.geogebra.org/m/KXXyFW6y)
   * [Bayes Theorem Calculator and Visual](https://www.geogebra.org/m/xsUeNBdW)
   * [Central Limit Theorem](https://seeing-theory.brown.edu/probability-distributions/index.html#section3)
+  * [Guessing correlations](https://istats.shinyapps.io/guesscorr/)
 * Asking fun questions at the beginning of class
   * [My favorites](Questions)
   * [This or That Questions](https://conversationstartersworld.com/this-or-that-questions/)
