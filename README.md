@@ -15,6 +15,7 @@ A place to put learning, teaching, and other online resources I found useful.
     + [Activities](#activities)
     + [Data Vis](#data-vis)
     + [Teaching with GitHub/Git](#teaching-with-github-git)
+    + [Teaching with R](#teaching-with-r)
     + [Advice for online teaching](#advice-for-online-teaching)
   * [Textbooks recommended by me or others](#textbooks-recommended-by-me-or-others)
     + [For students](#for-students)
@@ -91,6 +92,9 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
   * https://xkcd.com/1296/
   * http://phdcomics.com/comics/archive_print.php?comicid=1531
   * http://starlogs.net
+  
+### Teaching with R
+* [Sayali Phadke's Tool for Introducing R](https://psu-eberly.shinyapps.io/Introduction_to_R/)
 
 ### Advice for online teaching
 * [9 Ways Online Teaching Should be Different from Face-to-Face](https://www.cultofpedagogy.com/9-ways-online-teaching/)
