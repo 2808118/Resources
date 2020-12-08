@@ -95,6 +95,7 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
   
 ### Teaching with R
 * [Sayali Phadke's Tool for Introducing R](https://psu-eberly.shinyapps.io/Introduction_to_R/)
+* [Teacups, Giraffes, and Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)
 
 ### Advice for online teaching
 * [9 Ways Online Teaching Should be Different from Face-to-Face](https://www.cultofpedagogy.com/9-ways-online-teaching/)
