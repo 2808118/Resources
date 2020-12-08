@@ -96,10 +96,13 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 ### Teaching with R
 * [Sayali Phadke's Tool for Introducing R](https://psu-eberly.shinyapps.io/Introduction_to_R/)
 * [Teacups, Giraffes, and Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)
+* [Tidy animated verbs](https://www.garrickadenbuie.com/project/tidyexplain/)
+* [Teaching RMarkdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
 
 ### Advice for online teaching
 * [9 Ways Online Teaching Should be Different from Face-to-Face](https://www.cultofpedagogy.com/9-ways-online-teaching/)
 * [Small Teaching Online: Applying Learning Science in Online Classes](https://www.wiley.com/en-us/Small+Teaching+Online%3A+Applying+Learning+Science+in+Online+Classes-p-9781119619093)
+* [Sharing on Short Notice: How to Get Your Teaching Materials Online with #rmarkdown](https://twitter.com/apreshill/status/1249038479658348545)
 
 ## Textbooks recommended by me or others
 
