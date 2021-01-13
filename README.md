@@ -98,6 +98,7 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 * [Teacups, Giraffes, and Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)
 * [Tidy animated verbs](https://www.garrickadenbuie.com/project/tidyexplain/)
 * [Teaching RMarkdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
+* [Lessons in Markdown](https://commonmark.org/help/tutorial/)
 
 ### Advice for online teaching
 * [9 Ways Online Teaching Should be Different from Face-to-Face](https://www.cultofpedagogy.com/9-ways-online-teaching/)
