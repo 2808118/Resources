@@ -8,6 +8,7 @@ A place to put learning, teaching, and other online resources I found useful.
     + [Hidden Markov Models](#hidden-markov-models)
     + [Rstan](#rstan)
     + [Hamiltonian Monte Carlo Algorithm](#hamiltonian-monte-carlo-algorithm)
+    + [R](#r)
   * [Teaching Resources](#teaching-resources)
     + [Datasets](#datasets)
     + [Art](#art)
@@ -45,6 +46,9 @@ A place to put learning, teaching, and other online resources I found useful.
 
 ### Hamiltonian Monte Carlo Algorithm
 * [Blog post with simulation visualizations](https://elevanth.org/blog/2017/11/28/build-a-better-markov-chain/)
+
+### R
+* [Model checking for GAM](https://statistique.cuso.ch/fileadmin/statistique/part-3.pdf)
 
 ## Teaching Resources
 First, a list of [blogs and resources collected by Amy Hogan.](http://alittlestats.blogspot.com/p/things-loved.html) Focuses on AP and intro statistics.
