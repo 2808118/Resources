@@ -89,6 +89,7 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 ### Data Vis
 * [WTF Visualizations](https://viz.wtf) Visualizations that make no sense.
 * [WGOITG](https://www.nytimes.com/column/whats-going-on-in-this-graph)
+* [Gimlet Media using bar charts for each podcast - question of whether this is the appropriate visualization to use](https://www.reddit.com/r/replyallpodcast/comments/luqnf0/piece_written_by_exgimlet_producer_about_the/gp8mb5f/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3)
 
 ### Teaching with GitHub/Git
 * [JSM 2020 Panel Resources](https://github.com/mdbeckman/JSM2020-Virtual)
