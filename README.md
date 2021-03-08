@@ -63,6 +63,7 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 
 ### Explanations
 * [The difference between probability and statistics](https://www3.cs.stonybrook.edu/~skiena/jaialai/excerpts/node12.html)
+* [Notes for probability course (with plots)](http://sherrytowers.com/2013/08/29/aml-610-fall-2013-module-ii-review-of-probability-distributions/)
 
 ### Activities
 * [Setting the Stage on the First Day of Class](https://danaernst.com/setting-the-stage/)
