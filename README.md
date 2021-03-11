@@ -146,6 +146,8 @@ https://www.openintro.org/book/os#more_free_books
 
 ### For me
 
+* [N.A. Battista, ODEs, PDEs, Linear Algebra, and that jazz. (Book, in preparation)](https://github.com/nickabattista/Peacocks_Eye/blob/master/Books/ODEs_PDEs_and_all_that_Jazz/main.pdf)
+
 #### On education
 * How Learning Happens: Seminal Works in Educational Psychology and What They Mean in Practice by Carl Hendrick and Paul Arthur Kirschner. It has summaries of seminal journal articles in education and what it all means.
 * The Professor Is In: The Essential Guide To Turning Your Ph.D. Into a Job by Karen Kelsky
