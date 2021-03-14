@@ -105,6 +105,8 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 * [Tidy animated verbs](https://www.garrickadenbuie.com/project/tidyexplain/)
 * [Teaching RMarkdown](https://alison.rbind.io/post/2020-05-28-how-i-teach-r-markdown/)
 * [Lessons in Markdown](https://commonmark.org/help/tutorial/)
+* [Statistics Globe YouTube Channel](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w)
+* [Introduction to Data Science with R Course](https://intro-to-ds.netlify.app)
 
 ### Advice for online teaching
 * [9 Ways Online Teaching Should be Different from Face-to-Face](https://www.cultofpedagogy.com/9-ways-online-teaching/)
