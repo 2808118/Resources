@@ -74,6 +74,7 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 * Favorite apps for specific probabilistic concepts:
   * [Simulate from Binomial](https://www.randomservices.org/random/apps/BinomialCoinExperiment.html)
   * [Simulate from Negative Binomial](https://www.randomservices.org/random/apps/NegativeBinomialExperiment.html)
+  * [Simulate from Bivariate Normal](https://www.randomservices.org/random/apps/BivariateNormalExperiment.html)
   * [Poisson Approx to the Binomial](https://www.geogebra.org/m/nbjAMvYG)
   * [Normal Approx to the Binomial](https://www.geogebra.org/m/vmUTfxRm)
   * [Binomial with both Poisson and Normal approximations together](https://www.geogebra.org/m/CmHJuJxs)
