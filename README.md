@@ -21,6 +21,7 @@ A place to put learning, teaching, and other online resources I found useful.
   * [Textbooks recommended by me or others](#textbooks-recommended-by-me-or-others)
     + [For students](#for-students)
     + [For me](#for-me)
+      - [On math or statistics](#on-math-or-statistics)
       - [On education](#on-education)
   * [Blogs](#blogs)
   * [Getting a job](#getting-a-job)
@@ -149,17 +150,20 @@ https://www.openintro.org/book/os#more_free_books
 
 ### For me
 
+#### On math or statistics
+
 * [N.A. Battista, ODEs, PDEs, Linear Algebra, and that jazz. (Book, in preparation)](https://github.com/nickabattista/Peacocks_Eye/blob/master/Books/ODEs_PDEs_and_all_that_Jazz/main.pdf)
+* Mathematics for Human Flourishing by Francis Su
+* The Seven Pillars of Statistical Wisdom by Stigler
 
 #### On education
 * How Learning Happens: Seminal Works in Educational Psychology and What They Mean in Practice by Carl Hendrick and Paul Arthur Kirschner. It has summaries of seminal journal articles in education and what it all means.
 * The Professor Is In: The Essential Guide To Turning Your Ph.D. Into a Job by Karen Kelsky
 * Teaching Statistics: A Bag of Tricks by Andrew Gelman and Deborah A. Nolan
 * How Learning Works: Seven Research-Based Principles for Smart Teaching by Susan A. Ambrose, Michele DiPietro, Marsha C. Lovett, Michael W. Bridges, Marie K. Norman
-* Mathematics for Human Flourishing by Francis Su
 * On Course by James M. Lang
 * Teaching What You Don’t Know by Therese Huston
-* The Seven Pillars of Statistical Wisdom by Stigler
+* [Invisible Learning: The magic behind Dan Levy's legendary Harvard statistics course by David Franklin](https://www.amazon.com/gp/product/B08P7TJZSQ?pf_rd_r=X6PY3GQA3E963XCYK63Z&pf_rd_p=5ae2c7f8-e0c6-4f35-9071-dc3240e894a8&pd_rd_r=454e81fe-2974-4e7f-a082-e521ffd3724f&pd_rd_w=xMwqq&pd_rd_wg=Y4WS2&ref_=pd_gw_unk)
 
 ## Blogs
 * [Statisticians React to the News](https://blog.isi-web.org/react/)
