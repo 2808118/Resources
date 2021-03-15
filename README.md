@@ -67,10 +67,10 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 
 ### Activities
 * [Setting the Stage on the First Day of Class](https://danaernst.com/setting-the-stage/)
-* [Rossman/Chance Applet Collection](http://www.rossmanchance.com/applets/) with probability and statistics apps
+* [Rossman/Chance Applet Collection](https://www.rossmanchance.com/applets/index2021.html) with probability and statistics apps
 * [Seeing Theory](https://seeing-theory.brown.edu)
 * [Simulate from distributions (and more)](https://www.randomservices.org/random/apps/)
-* [Art of Stat Apps](http://www.artofstat.com/webapps.html)
+* [Art of Stat Apps](http://www.artofstat.com/web-apps)
 * Favorite apps for specific probabilistic concepts:
   * [Simulate from Binomial](https://www.randomservices.org/random/apps/BinomialCoinExperiment.html)
   * [Simulate from Negative Binomial](https://www.randomservices.org/random/apps/NegativeBinomialExperiment.html)
