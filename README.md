@@ -9,6 +9,7 @@ A place to put learning, teaching, and other online resources I found useful.
     + [Rstan](#rstan)
     + [Hamiltonian Monte Carlo Algorithm](#hamiltonian-monte-carlo-algorithm)
     + [R](#r)
+    + [Github](#github)
   * [Teaching Resources](#teaching-resources)
     + [Datasets](#datasets)
     + [Art](#art)
@@ -50,6 +51,9 @@ A place to put learning, teaching, and other online resources I found useful.
 
 ### R
 * [Model checking for GAM](https://statistique.cuso.ch/fileadmin/statistique/part-3.pdf)
+
+### Github
+* [DVC - Git for Big Data and Modeling](https://dvc.org)
 
 ## Teaching Resources
 First, a list of [blogs and resources collected by Amy Hogan.](http://alittlestats.blogspot.com/p/things-loved.html) Focuses on AP and intro statistics.
