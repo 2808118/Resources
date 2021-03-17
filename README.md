@@ -62,6 +62,7 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 * [palmerpenguins R data package](https://allisonhorst.github.io/palmerpenguins/) (alternative to iris dataset)
 * [FiveThirtyEight R Package (Data and Articles)](https://fivethirtyeight-r.netlify.app/articles/fivethirtyeight.html)
 * [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
+* [AP Statistics datasets with matching lessons](https://skewthescript.org/ap-stats-curriculum)
 
 ### Art
 * [Allison Horst's statistics and R illustrations](https://github.com/allisonhorst/stats-illustrations)
