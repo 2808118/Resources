@@ -152,6 +152,7 @@ https://www.openintro.org/book/os#more_free_books
 * I wrote a book that uses R throughout and introduces statistics along with the probability. https://www.maa.org/press/maa-reviews/foundations-and-applications-of-statistics-an-introduction-using-r (Randall Pruim)
 * The textbook Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R by Roback and Legler is now freely available at  https://bookdown.org/roback/bookdown-BeyondMLR/ , and the source code and associated data sets are available at  https://github.com/proback/BeyondMLR .  This is an updated version of the textbook formerly known as Broadening Your Statistical Horizons (BYSH); while core topics and structure and case studies remain the same, this version represents a noticeable improvement -- more exercises, more clarity, and more fun!  If you've been looking for an applied presentation of GLMs and multilevel models for advanced undergraduates, feel free to check out these materials and use anything that appears useful.
 * [Seeing Theory](https://seeing-theory.brown.edu/doc/seeing-theory.pdf) goes with the website. It is not published yet, but the pdf is online for free.
+* Matt Beckman recommended Daniel Kaplan's [Statistical Modeling: A Fresh Approach](https://www.amazon.com/Statistical-Modeling-Approach-Daniel-Kaplan/dp/1448642396) as an alternative to the introductory statistics course which focuses more on teaching cool stuff about statistics to students rather than the boring basics.
 
 ### For me
 
