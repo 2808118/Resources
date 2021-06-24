@@ -188,13 +188,12 @@ https://www.openintro.org/book/os#more_free_books
 ### Where to find job listings
 * https://www.mathjobs.org/jobs/list
 * https://jobs.chronicle.com/jobs/statistics/
+* https://jobs.chronicle.com/jobs/mathematics/ (don’t forget that some “stat jobs” will be within mathematics departments)
 * https://forms.stat.ufl.edu/statistics-jobs/
 * https://www.higheredjobs.com/
 * https://careers.insidehighered.com/
-* https://jobs.chronicle.com/jobs/mathematics/ (don’t forget that some “stat jobs” will be within mathematics departments)
 * https://jobs.amstat.org/jobs/
 * Less helpful - https://academicjobsonline.org/ajo/jobs
-* http://mdogucu.ics.uci.edu/service/isostat/tt-search-2019
 
 ### Advice for the job search
 * At JSM, the isolated statisticians working meeting will feature faculty who are looking to hire.
