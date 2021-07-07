@@ -72,6 +72,7 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 * [Notes for probability course (with plots).](http://sherrytowers.com/2013/08/29/aml-610-fall-2013-module-ii-review-of-probability-distributions/) This website also has a lot of other lecture materials related to statistics, probability, and R.
 
 ### Activities
+* [Padlet app for live collaboration](https://padlet.com)
 * [Setting the Stage on the First Day of Class](https://danaernst.com/setting-the-stage/)
 * [Rossman/Chance Applet Collection](https://www.rossmanchance.com/applets/index2021.html) with probability and statistics apps
 * [Seeing Theory](https://seeing-theory.brown.edu)
