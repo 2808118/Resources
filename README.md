@@ -19,7 +19,8 @@ A place to put learning, teaching, and other online resources I found useful.
     + [Teaching with GitHub/Git](#teaching-with-github-git)
     + [Teaching with R](#teaching-with-r)
     + [Advice for online teaching](#advice-for-online-teaching)
-    + [Diversity and Inclusion](#diversity-and-inclusion)
+    + [Diversity and inclusion](#diversity-and-inclusion)
+    + [Teaching methods](#teaching-methods)
   * [Textbooks recommended by me or others](#textbooks-recommended-by-me-or-others)
     + [For students](#for-students)
     + [For me](#for-me)
@@ -122,9 +123,15 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 * [Small Teaching Online: Applying Learning Science in Online Classes](https://www.wiley.com/en-us/Small+Teaching+Online%3A+Applying+Learning+Science+in+Online+Classes-p-9781119619093)
 * [Sharing on Short Notice: How to Get Your Teaching Materials Online with #rmarkdown](https://twitter.com/apreshill/status/1249038479658348545)
 
-### Diversity and Inclusion
+### Diversity and inclusion
 * [Sample syllabus statements from Brown](https://www.brown.edu/sheridan/teaching-learning-resources/inclusive-teaching/statements)
 * [Sample syllabus statements from NC State](https://statistics.sciences.ncsu.edu/resources/faculty/sample-diversity-statement/)
+* [Inclusivity in Statistics and Data Science Education](https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1906555)
+* [On minorities and outliers: The case for making Big Data small](https://journals.sagepub.com/doi/pdf/10.1177/2053951714540613)
+
+### Teaching methods
+* [Mastery-based assessment journal issue](https://www.tandfonline.com/toc/upri20/30/8-10)
+* [Standards-based grading resources including course objectives for a probability course](https://drive.google.com/drive/folders/1oCpuROg_xy8aJoqk3OakunxGDikQ6iyo)
 
 ## Textbooks recommended by me or others
 
@@ -176,6 +183,8 @@ https://www.openintro.org/book/os#more_free_books
 * On Course by James M. Lang
 * Teaching What You Don’t Know by Therese Huston
 * [Invisible Learning: The magic behind Dan Levy's legendary Harvard statistics course by David Franklin](https://www.amazon.com/gp/product/B08P7TJZSQ?pf_rd_r=X6PY3GQA3E963XCYK63Z&pf_rd_p=5ae2c7f8-e0c6-4f35-9071-dc3240e894a8&pd_rd_r=454e81fe-2974-4e7f-a082-e521ffd3724f&pd_rd_w=xMwqq&pd_rd_wg=Y4WS2&ref_=pd_gw_unk)
+* Thinking, Fast and Slow by Daniel Kahneman
+* Handbook of Motivation at School by Kathryn R. Wentzel and Allan Wigfield
 
 ## Blogs
 * [Statisticians React to the News](https://blog.isi-web.org/react/)
