@@ -19,6 +19,7 @@ A place to put learning, teaching, and other online resources I found useful.
     + [Teaching with GitHub/Git](#teaching-with-github-git)
     + [Teaching with R](#teaching-with-r)
     + [Advice for online teaching](#advice-for-online-teaching)
+    + [Diversity and Inclusion](#diversity-and-inclusion)
   * [Textbooks recommended by me or others](#textbooks-recommended-by-me-or-others)
     + [For students](#for-students)
     + [For me](#for-me)
@@ -120,6 +121,10 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 * [9 Ways Online Teaching Should be Different from Face-to-Face](https://www.cultofpedagogy.com/9-ways-online-teaching/)
 * [Small Teaching Online: Applying Learning Science in Online Classes](https://www.wiley.com/en-us/Small+Teaching+Online%3A+Applying+Learning+Science+in+Online+Classes-p-9781119619093)
 * [Sharing on Short Notice: How to Get Your Teaching Materials Online with #rmarkdown](https://twitter.com/apreshill/status/1249038479658348545)
+
+### Diversity and Inclusion
+* [Sample syllabus statements from Brown](https://www.brown.edu/sheridan/teaching-learning-resources/inclusive-teaching/statements)
+* [Sample syllabus statements from NC State](https://statistics.sciences.ncsu.edu/resources/faculty/sample-diversity-statement/)
 
 ## Textbooks recommended by me or others
 
