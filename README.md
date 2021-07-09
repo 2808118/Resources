@@ -21,6 +21,7 @@ A place to put learning, teaching, and other online resources I found useful.
     + [Advice for online teaching](#advice-for-online-teaching)
     + [Diversity and inclusion](#diversity-and-inclusion)
     + [Teaching methods](#teaching-methods)
+    + [Grants](#grants)
   * [Textbooks recommended by me or others](#textbooks-recommended-by-me-or-others)
     + [For students](#for-students)
     + [For me](#for-me)
@@ -132,6 +133,9 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 ### Teaching methods
 * [Mastery-based assessment journal issue](https://www.tandfonline.com/toc/upri20/30/8-10)
 * [Standards-based grading resources including course objectives for a probability course](https://drive.google.com/drive/folders/1oCpuROg_xy8aJoqk3OakunxGDikQ6iyo)
+
+### Grants
+* [Improving Undergraduate STEM Education: Education and Human Resources  (IUSE: EHR)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505082)
 
 ## Textbooks recommended by me or others
 
