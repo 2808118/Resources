@@ -29,6 +29,8 @@ A place to put learning, teaching, and other online resources I found useful.
       - [On education](#on-education)
   * [Blogs](#blogs)
   * [Getting a job](#getting-a-job)
+    + [On graduating](#on-graduating)
+    + [On application materials](#on-application-materials)
     + [Where to find job listings](#where-to-find-job-listings)
     + [Advice for the job search](#advice-for-the-job-search)
 
@@ -201,8 +203,11 @@ https://www.openintro.org/book/os#more_free_books
 
 ## Getting a job
 
-### On graduating:
+### On graduating
 * https://gradschool.psu.edu/completing-your-degree/thesis-and-dissertation-information/
+
+### On application materials
+* Harvard example resumes and cover letters: https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf
 
 ### Where to find job listings
 * https://www.mathjobs.org/jobs/list
