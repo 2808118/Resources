@@ -56,6 +56,9 @@ A place to put learning, teaching, and other online resources I found useful.
 
 ### R
 * [Model checking for GAM](https://statistique.cuso.ch/fileadmin/statistique/part-3.pdf)
+* [Color palettes for maps](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+* [List of named colors](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
+* [Adobe color wheel](https://color.adobe.com/create/color-wheel)
 
 ### Github
 * [DVC - Git for Big Data and Modeling](https://dvc.org)
