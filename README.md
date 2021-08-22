@@ -207,7 +207,7 @@ https://www.openintro.org/book/os#more_free_books
 * https://gradschool.psu.edu/completing-your-degree/thesis-and-dissertation-information/
 
 ### On application materials
-* Harvard example resumes and cover letters: https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf
+* Harvard example resumes, cover letters, and more letters: https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf
 
 ### Where to find job listings
 * https://www.mathjobs.org/jobs/list
