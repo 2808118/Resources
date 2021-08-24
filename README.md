@@ -194,6 +194,8 @@ https://www.openintro.org/book/os#more_free_books
 * [Invisible Learning: The magic behind Dan Levy's legendary Harvard statistics course by David Franklin](https://www.amazon.com/gp/product/B08P7TJZSQ?pf_rd_r=X6PY3GQA3E963XCYK63Z&pf_rd_p=5ae2c7f8-e0c6-4f35-9071-dc3240e894a8&pd_rd_r=454e81fe-2974-4e7f-a082-e521ffd3724f&pd_rd_w=xMwqq&pd_rd_wg=Y4WS2&ref_=pd_gw_unk)
 * Thinking, Fast and Slow by Daniel Kahneman
 * Handbook of Motivation at School by Kathryn R. Wentzel and Allan Wigfield
+* Strength in Numbers: The Rising of Academic Statistics Departments in the U. S. by Alan Agresti gives a history of the statistics departments that began in the 1960s. It includes histories of over 40 departments from throughout the nation.
+* Grading for Equity
 
 ## Blogs
 * [Statisticians React to the News](https://blog.isi-web.org/react/)
