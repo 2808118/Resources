@@ -123,6 +123,8 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 * [Lessons in Markdown](https://commonmark.org/help/tutorial/)
 * [Statistics Globe YouTube Channel](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w)
 * [Introduction to Data Science with R Course](https://intro-to-ds.netlify.app)
+* [RStudio Primers](https://rstudio.cloud/learn/primers)
+* [introverse R package](https://spielmanlab.github.io/introverse/)
 
 ### Advice for online teaching
 * [9 Ways Online Teaching Should be Different from Face-to-Face](https://www.cultofpedagogy.com/9-ways-online-teaching/)
