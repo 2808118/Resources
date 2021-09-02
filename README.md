@@ -59,6 +59,7 @@ A place to put learning, teaching, and other online resources I found useful.
 * [Color palettes for maps](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 * [List of named colors](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
 * [Adobe color wheel](https://color.adobe.com/create/color-wheel)
+* [Pollen aRt (free to use)](https://art.djnavarro.net/gallery/pollen/)
 
 ### Github
 * [DVC - Git for Big Data and Modeling](https://dvc.org)
