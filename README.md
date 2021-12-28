@@ -73,6 +73,7 @@ First, a list of [blogs and resources collected by Amy Hogan.](http://alittlesta
 * [FiveThirtyEight R Package (Data and Articles)](https://fivethirtyeight-r.netlify.app/articles/fivethirtyeight.html)
 * [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 * [AP Statistics datasets with matching lessons](https://skewthescript.org/ap-stats-curriculum)
+* [About Anscombe's Quartet](https://towardsdatascience.com/importance-of-data-visualization-anscombes-quartet-way-a325148b9fd2)
 
 ### Art
 * [Allison Horst's statistics and R illustrations](https://github.com/allisonhorst/stats-illustrations)
