@@ -229,6 +229,7 @@ https://www.openintro.org/book/os#more_free_books
 * https://careers.insidehighered.com/
 * https://jobs.amstat.org/jobs/
 * Less helpful - https://academicjobsonline.org/ajo/jobs
+* https://wfscjobs.tamu.edu/job-board/
 
 ### Advice for the job search
 * At JSM, the isolated statisticians working meeting will feature faculty who are looking to hire.
