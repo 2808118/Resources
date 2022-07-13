@@ -6,6 +6,7 @@ A place to put learning, teaching, and other online resources I found useful.
   * [Learning Resources](#learning-resources)
     + [Dirichlet process](#dirichlet-process)
     + [Hidden Markov Models](#hidden-markov-models)
+    + [Regression Discontinuity Designs](#regression-discontinuity-designs)
     + [Rstan](#rstan)
     + [Hamiltonian Monte Carlo Algorithm](#hamiltonian-monte-carlo-algorithm)
     + [R](#r)
@@ -44,6 +45,9 @@ A place to put learning, teaching, and other online resources I found useful.
 ### Hidden Markov Models
 * [Hidden Markov Models and State Estimation](https://www.stat.cmu.edu/~cshalizi/dst/18/lectures/24/lecture-24.html)
   * [Forward algorithm for computing the likelihood & Viterbi algorithm for most likely state sequence](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
+  
+### Regression Discontinuity Designs
+* [Fuzzy RDD in R](https://evalf20.classes.andrewheiss.com/example/rdd-fuzzy/)
 
 ### Rstan
 * [Stan User's Guide](https://mc-stan.org/docs/2_24/stan-users-guide/index.html)
