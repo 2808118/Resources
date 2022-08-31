@@ -65,6 +65,7 @@ A place to put learning, teaching, and other online resources I found useful.
 * [Adobe color wheel](https://color.adobe.com/create/color-wheel)
 * [Pollen aRt (free to use)](https://art.djnavarro.net/gallery/pollen/)
 * [Check a plot to see if color blind friendly](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+* [Free R Tips](https://github.com/business-science/free_r_tips)
 
 ### Github
 * [DVC - Git for Big Data and Modeling](https://dvc.org)
