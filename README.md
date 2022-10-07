@@ -4,6 +4,7 @@ A place to put learning, teaching, and other online resources I found useful.
 
 # Table of contents
   * [Learning Resources](#learning-resources)
+    + [Bayesian meta-analysis](#bayesian-meta-analysis)
     + [Dirichlet process](#dirichlet-process)
     + [Hidden Markov Models](#hidden-markov-models)
     + [Regression Discontinuity Designs](#regression-discontinuity-designs)
@@ -38,6 +39,9 @@ A place to put learning, teaching, and other online resources I found useful.
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Learning Resources
+
+### Bayesian meta-analysis
+* [Bayesian Meta-Analysis](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/bayesian-ma.html#:~:text=Bayesian%20meta%2Danalysis%20is%20based,for%20%CE%BC%20and%20%CF%842%20.)
 
 ### Dirichlet process
 * [Nonparametric Bayesian Methods: Models, Algorithms, and Applications I](https://simons.berkeley.edu/talks/tamara-broderick-michael-jordan-01-25-2017-1)
