@@ -8,6 +8,7 @@ A place to put learning, teaching, and other online resources I found useful.
     + [Dirichlet process](#dirichlet-process)
     + [Hidden Markov Models](#hidden-markov-models)
     + [Regression Discontinuity Designs](#regression-discontinuity-designs)
+    + [Text Analysis](#text-analysis)
     + [Rstan](#rstan)
     + [Hamiltonian Monte Carlo Algorithm](#hamiltonian-monte-carlo-algorithm)
     + [R](#r)
@@ -52,6 +53,9 @@ A place to put learning, teaching, and other online resources I found useful.
   
 ### Regression Discontinuity Designs
 * [Fuzzy RDD in R](https://evalf20.classes.andrewheiss.com/example/rdd-fuzzy/)
+
+### Text Analysis
+* [Semi-Automated Non-response Detection for Surveys](https://www.cdc.gov/nchs/data-science/SANDS-model-context.htm)
 
 ### Rstan
 * [Stan User's Guide](https://mc-stan.org/docs/2_24/stan-users-guide/index.html)
