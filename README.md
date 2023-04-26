@@ -8,6 +8,7 @@ A place to put learning, teaching, and other online resources I found useful.
     + [Dirichlet process](#dirichlet-process)
     + [Hidden Markov Models](#hidden-markov-models)
     + [Regression Discontinuity Designs](#regression-discontinuity-designs)
+    + [Difference-in-difference](#difference-in-difference)
     + [Text Analysis](#text-analysis)
     + [Rstan](#rstan)
     + [Hamiltonian Monte Carlo Algorithm](#hamiltonian-monte-carlo-algorithm)
@@ -53,6 +54,9 @@ A place to put learning, teaching, and other online resources I found useful.
   
 ### Regression Discontinuity Designs
 * [Fuzzy RDD in R](https://evalf20.classes.andrewheiss.com/example/rdd-fuzzy/)
+
+### Difference-in-difference
+* [Health Policy DID](https://diff.healthpolicydatascience.org/#cits)
 
 ### Text Analysis
 * [Semi-Automated Non-response Detection for Surveys](https://www.cdc.gov/nchs/data-science/SANDS-model-context.htm)
