@@ -9,6 +9,7 @@ A place to put learning, teaching, and other online resources I found useful.
     + [Hidden Markov Models](#hidden-markov-models)
     + [Regression Discontinuity Designs](#regression-discontinuity-designs)
     + [Difference-in-difference](#difference-in-difference)
+    + [Causal-Inference](#causal-inference)
     + [Text Analysis](#text-analysis)
     + [Rstan](#rstan)
     + [Hamiltonian Monte Carlo Algorithm](#hamiltonian-monte-carlo-algorithm)
@@ -57,6 +58,9 @@ A place to put learning, teaching, and other online resources I found useful.
 
 ### Difference-in-difference
 * [Health Policy DID](https://diff.healthpolicydatascience.org/#cits)
+
+### Causal Inference
+* [Webinar](https://community.amstat.org/committeeoninternationalrelationsinstatistics/events2/webinars)
 
 ### Text Analysis
 * [Semi-Automated Non-response Detection for Surveys](https://www.cdc.gov/nchs/data-science/SANDS-model-context.htm)
