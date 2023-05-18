@@ -87,6 +87,7 @@ A place to put learning, teaching, and other online resources I found useful.
 ### Data Vis
 * [CSS Diner](http://www.flexboxdefense.com/)
 * [CSS Flexbox](https://flukeout.github.io/#)
+* [CSS in Shiny](https://shiny.posit.co/r/articles/build/css/)
 
 ### Github
 * [DVC - Git for Big Data and Modeling](https://dvc.org)
