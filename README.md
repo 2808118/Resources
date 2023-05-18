@@ -14,6 +14,7 @@ A place to put learning, teaching, and other online resources I found useful.
     + [Rstan](#rstan)
     + [Hamiltonian Monte Carlo Algorithm](#hamiltonian-monte-carlo-algorithm)
     + [R](#r)
+    + [Data Vis](#data-vis)
     + [Github](#github)
   * [Teaching Resources](#teaching-resources)
     + [Datasets](#datasets)
@@ -82,6 +83,10 @@ A place to put learning, teaching, and other online resources I found useful.
 * [Pollen aRt (free to use)](https://art.djnavarro.net/gallery/pollen/)
 * [Check a plot to see if color blind friendly](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 * [Free R Tips](https://github.com/business-science/free_r_tips)
+
+### Data Vis
+* [CSS Diner](http://www.flexboxdefense.com/)
+* [CSS Flexbox](https://flukeout.github.io/#)
 
 ### Github
 * [DVC - Git for Big Data and Modeling](https://dvc.org)
